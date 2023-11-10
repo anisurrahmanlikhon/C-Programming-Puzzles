@@ -3,7 +3,7 @@
 
 ### Solve the Puzzles
 
-1. <b>`Solve the puzzle to add two numbers` [`Click Here`](./puzzles/1.html){:target="_blank"} </b>
+1. <b>`Solve the puzzle to print "Hello World!"` [`Click Here`](./puzzles/1.html){:target="_blank"} </b>
    
 2. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
    
