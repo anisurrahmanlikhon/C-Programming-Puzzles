@@ -5,4 +5,4 @@ C Programming puzzles are a type of scaffolded program construction tasks where 
 Instructions
 Write the title and the code of a program in the following form. Use a #distractor comment at the end of the line to set it as a distractor line. Click on the Create Puzzle button to generate the puzzle. You will be redirected to the puzzle page.
 
-Example: 
+Example: https://anisurrahmanlikhon.github.io/C-Programming-Puzzles/puzzles/1.html
