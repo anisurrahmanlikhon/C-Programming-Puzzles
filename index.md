@@ -1,0 +1,48 @@
+<img src=""></img>
+<b>`Code Puzzle Creator ` [`Click Here`](https://www.codepuzzle.io/){:target="_blank"}</b>
+
+### Solve the Puzzles
+
+1. <b>`Solve the puzzle to add two numbers` [`Click Here`](https://parsons.problemsolving.io/puzzle/a74f2a4ff3a34e4eae340eb31bd25605){:target="_blank"} </b>
+   
+2. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+   
+3. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+   
+4. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+
+5. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+   
+6. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+
+7. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+
+8. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+
+9. <b>`Solve the puzzle to ...............` 
+<b>`Parsons Problems Solving Puzzles Maker ` [`Click Here`](https://parsons.problemsolving.io/){:target="_blank"}</b>
+
+### Solve the Puzzles
+
+1. <b>`Solve the puzzle to add two numbers` [`Click Here`](https://parsons.problemsolving.io/puzzle/a74f2a4ff3a34e4eae340eb31bd25605){:target="_blank"} </b>
+   
+2. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+   
+3. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+   
+4. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+
+5. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+   
+6. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+
+7. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+
+8. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+
+9. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+
+10. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b> 
+[`Click Here`](){:target="_blank"}</b>
+
+10. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b> 
