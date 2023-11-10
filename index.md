@@ -11,4 +11,4 @@
    
 4. <b>`Solve the puzzle to swap numbers using temporary variable.` [`Click Here`](./puzzles/4.html){:target="_blank"}</b>
 
-5. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+5. <b>`Solve the puzzle to swap numbers using without temporary variable.` [`Click Here`](./puzzles/5.html){:target="_blank"}</b>
