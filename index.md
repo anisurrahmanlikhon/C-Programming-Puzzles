@@ -5,9 +5,9 @@
 
 1. <b>`Solve the puzzle to print "Hello World!"` [`Click Here`](./puzzles/1.html){:target="_blank"} </b>
    
-2. <b>`Solve the puzzle to print an integer` [`Click Here`](./puzzles/2.html){:target="_blank"}</b>
+2. <b>`Solve the puzzle to print an integer from user.` [`Click Here`](./puzzles/2.html){:target="_blank"}</b>
    
-3. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
+3. <b>`Solve the puzzle to add two numbers from user.` [`Click Here`](./puzzles/3.html){:target="_blank"}</b>
    
 4. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
 
