@@ -1,4 +1,4 @@
-<img src=""></img>
+<img src="puzzle.jpg"></img>
 <b>`Code Puzzle Creator ` [`Click Here`](https://www.codepuzzle.io/){:target="_blank"}</b>
 
 ### Solve the Puzzles
