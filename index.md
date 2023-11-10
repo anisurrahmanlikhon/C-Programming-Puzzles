@@ -1,5 +1,5 @@
 <img src="puzzle.jpg"><br>
-<b>`Code Puzzle Creator ` [`Click Here`](https://www.codepuzzle.io/){:target="_blank"}</b>
+<b>`Code Puzzle` [`Click Here`](https://www.codepuzzle.io/){:target="_blank"}</b>
 
 ### Solve the Puzzles
 
